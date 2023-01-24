@@ -40,7 +40,7 @@ sudo make install
 ```
 
 <p>agar .config papka ichida hypr papkasi bo'lmasa yaratish lozim</p>
-```
+```bash
 mkdir ~/.config/hypr
 ```
 
