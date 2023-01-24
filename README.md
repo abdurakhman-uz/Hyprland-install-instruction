@@ -19,7 +19,7 @@ sudo pacman -S sddm
 ```
 sudo systemctl disable lightdm | lxdm
 ```
-#fixed
+
 ```
 sudo systemctl enable sddm
 ```
