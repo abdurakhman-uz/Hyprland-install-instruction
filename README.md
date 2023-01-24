@@ -51,7 +51,7 @@ cp -r example/hyprland.conf ~/.config/hypr/
 
 <p>va shulardan so'ng Hyprland WM ishlatishga tayyor, faqat reboot qilish qoldi halos :)</p>
 
-<p>Agarda repositoriyada hatoliklar yoki takliflar bo'lsa PR tashlashiz mumkin</p>
+#### Agarda repositoriyada hatoliklar yoki takliflar bo'lsa PR tashlashiz mumkin
 
-### English version - Coming Soon
-### Russian version - Coming Soon
+#### English version - Coming Soon
+#### Russian version - Coming Soon
